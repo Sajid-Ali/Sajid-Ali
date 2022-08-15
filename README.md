@@ -1,5 +1,5 @@
 👋 Hi, I’m @Sajid-Ali
-I’m a Senior Software Engineer with 5+ years of project experience in Javascript/Typescript programming language with excellent technical, programming, debugging, and problem-solving skills.
+I’m a Senior Software Engineer with 6+ years of project experience in Javascript/Typescript programming language with excellent technical, programming, debugging, and problem-solving skills.
 
 I am currently working with leading technology stacks in JavaScript | Typescript | ReactJs | NextJs | React Native | NodeJs | HTML | CSS| SQL | MySQL | Postgres SQL | RESTApi | GraphQL API | AngularJs | Redux | Redux Saga | Redux Thunk | SOAP-UI | JavaEE | AWS | Serverless | DynamoDB | Supabase | Postman | Docker | Git | Bitbucket | Jira | Scrum |
 
